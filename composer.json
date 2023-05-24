@@ -1,0 +1,21 @@
+{
+    "name": "emma/internationalization",
+    "description": "A PHP 7.0+ internationalization library and services for getting all the world countries, country states, country's currency/currencies, symbols, locale and languages. It also includes: number formatter, decimal formatter and currency formatter. currency formatter by country name, isoAlphaCode2 or isoAlphaCode3.",
+    "authors": [
+        {
+            "name": "Ademola Aina",
+            "email" : "debascoguy@gmail.com",
+            "homepage": "https://github.com/debascoguy/intlCountries",
+            "role": "Founder/Lead Software Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Countries\\": "Src/"
+        }
+    },
+    "license": "GPL-2.0-only"
+}
