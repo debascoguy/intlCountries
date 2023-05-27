@@ -1,5 +1,5 @@
 <?php
-namespace Countries;
+namespace Emma\Countries;
 
 trait Singleton 
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace Countries\Repository;
+namespace Emma\Countries\Repository;
 
-use Countries\Entity\Country;
-use Countries\Singleton;
+use Emma\Countries\Entity\Country;
+use Emma\Countries\Singleton;
 
 class CountryRepository {
 

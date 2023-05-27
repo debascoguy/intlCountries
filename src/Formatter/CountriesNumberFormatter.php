@@ -1,5 +1,5 @@
 <?php
-namespace Countries\Formatter;
+namespace Emma\Countries\Formatter;
 
 use NumberFormatter;
 

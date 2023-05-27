@@ -17,7 +17,7 @@
 
  ```php
 
-use Countries\Countries;
+use Emma\Countries\Countries;
 
 //VERY IMPORTANT - All function that returns an object also has there corresponding function that returns an array data set.
 

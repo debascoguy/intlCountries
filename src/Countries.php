@@ -1,13 +1,13 @@
 <?php 
 
-namespace Countries;
+namespace Emma\Countries;
 
-use Countries\Formatter\CurrencyFormatter;
-use Countries\Formatter\DecimalFormatter;
-use Countries\Repository\CountryRepository;
-use Countries\Repository\CurrencyRepository;
-use Countries\Repository\LocaleRepository;
-use Countries\Repository\StatesRepository;
+use Emma\Countries\Formatter\CurrencyFormatter;
+use Emma\Countries\Formatter\DecimalFormatter;
+use Emma\Countries\Repository\CountryRepository;
+use Emma\Countries\Repository\CurrencyRepository;
+use Emma\Countries\Repository\LocaleRepository;
+use Emma\Countries\Repository\StatesRepository;
 
 class Countries {
 

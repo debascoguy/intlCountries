@@ -1,8 +1,8 @@
 <?php
-namespace Countries\Repository;
+namespace Emma\Countries\Repository;
 
-use Countries\Entity\Locale;
-use Countries\Singleton;
+use Emma\Countries\Entity\Locale;
+use Emma\Countries\Singleton;
 
 class LocaleRepository extends CountryRepository {
 

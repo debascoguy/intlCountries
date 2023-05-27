@@ -1,6 +1,6 @@
 <?php
 
-namespace Countries\Entity;
+namespace Emma\Countries\Entity;
 
 class Locale {
 

@@ -1,7 +1,7 @@
 <?php
-namespace Countries\Formatter;
+namespace Emma\Countries\Formatter;
 
-use Countries\Repository\CountryRepository;
+use Emma\Countries\Repository\CountryRepository;
 use Exception;
 
 class DecimalFormatter extends CountriesNumberFormatter {

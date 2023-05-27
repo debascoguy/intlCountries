@@ -1,9 +1,9 @@
 <?php
-namespace Countries\Repository;
+namespace Emma\Countries\Repository;
 
-use Countries\Entity\Currency;
-use Countries\Entity\CurrencyDetails;
-use Countries\Singleton;
+use Emma\Countries\Entity\Currency;
+use Emma\Countries\Entity\CurrencyDetails;
+use Emma\Countries\Singleton;
 
 class CurrencyRepository extends CountryRepository {
     
